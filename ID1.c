@@ -13,5 +13,5 @@ int main(void){
 			printf("%d\n", i);
 		}
 	}
-	printf("La suma de los multiplos es: %d", sum);
+	printf("The sum of  all the multiples of 3 or 5 below 1000 is: %d", sum);
 }
